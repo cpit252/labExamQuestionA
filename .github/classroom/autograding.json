@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "QuestionATest",
+      "setup": "",
+      "run": "mvn test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": 5
+    }
+  ]
+}
